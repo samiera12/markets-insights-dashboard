@@ -3,7 +3,7 @@
 A sophisticated full stack financial tool that analyzes historical market data to provide portfolio performance metrics and automated business insights. This project demonstrates a decoupled architecture using a Python FastAPI backend and a Next.js React frontend.
 
 ## Live Demo and Links
-* Production UI: [[https://markets-insights-dashboard.netlify.app](https://markets-insights-dashboard.netlify.app/)
+* Production UI: [https://markets-insights-dashboard.netlify.app](https://markets-insights-dashboard.netlify.app/)
 * * REST API Endpoint: [https://markets-insights-dashboard.onrender.com/](https://markets-insights-dashboard.onrender.com/)
 * Repository: [https://github.com/samiera12/markets-insights-dashboard](https://github.com/samiera12/markets-insights-dashboard)
 
