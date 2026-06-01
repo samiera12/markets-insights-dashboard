@@ -4,7 +4,7 @@ A sophisticated full stack financial tool that analyzes historical market data t
 
 ## Live Demo and Links
 * Production UI: [https://markets-insights-dashboard.netlify.app](https://markets-insights-dashboard.netlify.app/)
-* * REST API Endpoint: [https://markets-insights-dashboard.onrender.com/](https://markets-insights-dashboard.onrender.com/)
+* * REST API Endpoint: [https://markets-insights-dashboard.onrender.com/api/portfolio](https://markets-insights-dashboard.onrender.com/api/potfolio)
 * Repository: [https://github.com/samiera12/markets-insights-dashboard](https://github.com/samiera12/markets-insights-dashboard)
 
 ## Tech Stack
