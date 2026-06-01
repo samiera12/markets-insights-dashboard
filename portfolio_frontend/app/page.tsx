@@ -80,7 +80,7 @@ export default function Dashboard() {
     setLoading(true);
     setError(null);
     try {
-      const response = await fetch('https://markets-insights-dashboard.onrender.com/');
+      const response = await fetch('https://markets-insights-dashboard.onrender.com/api/portfolio');
       if (!response.ok) throw new Error('Failed to fetch data from portfolio system.');
       const result = await response.json();
       setData(result);
