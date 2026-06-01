@@ -43,8 +43,8 @@ cd portfolio_backend
 python -m venv venv
 pip install -r requirements.txt
 python main.py
-
-**### 2. Frontend Setup**
+ ```
+### 2. Frontend Setup
 Navigate to the frontend directory and start the Next.js development server:
 ```bash
 cd portfolio_frontend
